@@ -33,6 +33,25 @@ LifeStream shall provide:
 
 ---
 
+# User Experience Goals
+
+LifeStream should feel effortless to use.
+
+The most common tasks should require as few interactions as possible.
+
+Examples include:
+- Posting the latest photo from an iPhone Shortcut in a single action.
+- Posting a text announcement in one step.
+- Reacting to a post with a single tap.
+- Commenting without leaving the current page.
+- Configuring another user's visibility and notification preferences from a single screen.
+- Viewing new content without installing software.
+- Sharing life with friends and family without understanding the underlying technology.
+
+Complexity belongs in the implementation, not in the user interface.
+
+---
+
 # Non-Goals
 
 LifeStream is **not** intended to become:
@@ -40,7 +59,6 @@ LifeStream is **not** intended to become:
 - A public social network
 - A photo management application
 - A cloud storage service
-- A blogging platform
 - A messaging application
 - A replacement for email
 - An engagement-driven platform
@@ -92,23 +110,24 @@ Users have:
 
 The primary object within LifeStream.
 
-Every item appearing in a feed is a Post.
+Every item appearing in a user's feed is a Post.
 
-A Post may contain:
+A Post always contains:
 
-- Text
+- An author
+- A timestamp
+
+A Post may additionally contain:
+
+- Rich text
 - Photos
 - Videos
 - GIFs
 - Polls
-- Attachments (future)
-
-A Post may also include:
-
-- Comments
-- Reactions
 - Built-in tags
 - Hashtags
+- Comments
+- Reactions
 
 ---
 
