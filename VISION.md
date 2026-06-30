@@ -3,7 +3,7 @@
 # LifeStream Vision
 
 > **Private, ad-free social networking for friends and family.**
-> **LifeStream exists for effortlessly, privately, and meaningfully sharing life’s moments with the people who matter most.**
+> **LifeStream exists to effortlessly, privately, and meaningfully share life’s moments with the people who matter most.**
 
 ## What LifeStream Is
 
