@@ -2,11 +2,14 @@
 
 # LifeStream Vision
 
+> **Private, ad-free social networking for friends and family.**
+> **LifeStream exists for effortlessly, privately, and meaningfully sharing life’s moments with the people who matter most.**
+
 ## What LifeStream Is
 
 LifeStream is a private, ad-free social network designed exclusively for friends and family.
 
-LifeStream is a chronological stream of life.
+LifeStream is a chronological record of life's moments.
 
 Posts may include photos, videos, announcements, stories, polls, life events, comments, reactions, and conversations.
 
@@ -41,7 +44,7 @@ LifeStream values relationships over reach.
 
 ## Why LifeStream Exists
 
-LifeStream exists because sharing life's moments with the people who matter most should be simple, private, and enjoyable.
+LifeStream exists because sharing life's moments with the people who matter most should be effortless, private, and enjoyable.
 
 Today's social networks are built to maximize engagement, collect personal data, and monetize attention. They encourage broadcasting to audiences rather than strengthening relationships. LifeStream rejects that model.
 
@@ -74,6 +77,8 @@ Features should encourage conversation, participation, and shared experiences—
 LifeStream exists to strengthen relationships, not maximize screen time.
 
 The goal is meaningful interaction, not endless scrolling.
+
+Every feature should encourage participation rather than passive consumption.
 
 ---
 
@@ -110,7 +115,7 @@ LifeStream should provide thoughtful personalization without overwhelming users 
 
 ### Browser First
 
-Viewing and participating in LifeStream should require nothing more than a modern web browser.
+LifeStream should be fully functional from any modern web browser.
 
 Optional enhancements—such as Web Push notifications, passkeys, or installation as a Progressive Web App—should improve the experience without becoming requirements.
 
@@ -138,6 +143,6 @@ Users always remain in control.
 
 ## Success
 
-LifeStream succeeds when families and friends naturally share more of their lives with one another because doing so is easy, enjoyable, and private.
+LifeStream succeeds when families and friends naturally share more of their lives with one another because doing so is effortless, enjoyable, and private.
 
 If LifeStream quietly becomes part of everyday life—and people forget they're using software at all—then it has achieved its purpose.
